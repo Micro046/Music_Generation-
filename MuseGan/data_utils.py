@@ -189,8 +189,6 @@ def validate_data_shape(data):
 
     return True
 
-
-# Example usage and testing
 if __name__ == "__main__":
     # Test data loading and preprocessing
     print("Testing data preparation...")
